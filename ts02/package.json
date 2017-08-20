@@ -13,6 +13,7 @@
     "react-dom": "^15.3.2"
   },
   "devDependencies": {
+    "bootstrap": "^3.3.7",
     "gulp": "^3.9.1",
     "gulp-browserify": "^0.5.1",
     "gulp-concat": "^2.6.0",
